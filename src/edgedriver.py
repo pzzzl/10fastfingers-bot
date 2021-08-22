@@ -8,3 +8,4 @@ class Edge:
     def start(self):
         self.driver.get(URL)
         assert "10FastFingers.com" in self.driver.title
+        return self.driver
