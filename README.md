@@ -9,7 +9,7 @@
 <p align="center">A bot that can achieve the perfect score at <a href="https://10fastfingers.com/">10 Fast Fingers</a>.</p>
 
 <p align="center">
-<img width=200 src="https://raw.githubusercontent.com/pzzzl/10fastfingers-bot/main/public/screenshot.png">
+<img width=300 src="https://raw.githubusercontent.com/pzzzl/10fastfingers-bot/main/public/screenshot.png">
 </p>
 
 - [About](#about)
