@@ -39,6 +39,9 @@
 4. Navigate to the `src` folder: <br>
 `cd src` <br>
 
+5. Run the `bot.py` script: <br>
+`python bot.py` <br>
+
 **Warning**: if it fails to open the browser, `bin/msedgedriver.exe` may be out of date. Go to `edge://version` on your Microsoft Edge, check the version and download the correct matching one [here](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/).
 
 ### Disclaimer
